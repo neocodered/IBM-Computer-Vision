@@ -1,4 +1,4 @@
-# IBM-Computer-Vision-
+# IBM Computer Vision
 ### Computer Vision with Python, Pillow, and OpenCV
 
 **Overview:**
